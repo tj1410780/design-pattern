@@ -1,5 +1,7 @@
 package com.mengdi.proxy;
-
+/*
+ * ¾²Ì¬´úÀí 
+ */
 public class Test {
 	public static void main(String[] args) {
 //		Moveable m = new Car();
