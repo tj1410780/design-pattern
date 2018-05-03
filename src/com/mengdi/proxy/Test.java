@@ -1,9 +1,9 @@
 package com.mengdi.proxy;
 /*
- * ¾²Ì¬´úÀí 
+ * Å¾Ë›ÄšÅ¹Â´ÃºÅ”Ã­ 
  */
 public class Test {
-	public static void main(String[] args) {
+	public static void main(String[] args) {    
 //		Moveable m = new Car();
 //		CarTimeProxy car = new CarTimeProxy(m);
 //		car.move();
