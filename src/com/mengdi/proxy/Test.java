@@ -1,6 +1,6 @@
 package com.mengdi.proxy;
 /*
- * ž˛ĚŹ´úŔí 
+ * 静态代理
  */
 public class Test {
 	public static void main(String[] args) {    
